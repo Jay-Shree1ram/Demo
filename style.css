@@ -74,22 +74,9 @@ li {
 
 /* vehicle section end */
 
-/* packages section start */
-#packages {
-  margin-top: 5.5rem;
-}
-#packages .card:hover {
-  box-shadow: 5px 5px 10px #777777;
-}
-/* packages section end */
 
-/* packages description section start */
 
-/* packages description section end */
 
-#smallnav {
-  margin-top: 4.5rem;
-}
 /*Services section start   */
 .services_icons {
   height: 70px;
@@ -138,12 +125,11 @@ h4 {
 
 /* footer section start */
 
-#footer {
+footer {
   padding: 5rem 0;
   background-image: url(/img/footerbackground.jpg);
 }
-
-#footer h2 {
+footer h2 {
   font-family: "Times New Roman", Times, serif;
 }
 
